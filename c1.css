@@ -11,21 +11,22 @@
         position: fixed;
         width: 100%;
         height: 60px;
-        font-family: genos;
+        font-family: 'Genos', sans-serif;
         margin-top: -1.99%;}
 
- .navegador{display: flex;justify-content: space-around;
-        font-size: 0.9em;
-}
+ .navegador{display: flex;
+            justify-content: space-around;
+            font-size: 0.9em;}
 
 
  .ada-itw{font-size:1.6em;
-      margin-top: -0.1%;
-      margin-left: 160%;
-      color:rgb(252, 43, 217)}
+          margin-top: -0.1%;
+          margin-left: 160%;
+          color:rgb(252, 43, 217)}
 
- a{text-decoration: none; color:rgb(252, 43, 217);margin-left: -12%;
-}
+ a{text-decoration: none; 
+   color:rgb(252, 43, 217);
+   margin-left: -12%;}
 
  .ada-itw:hover{color: rgb(176, 0, 182);}
   nav a:hover{color:rgb(176, 0, 182);}
@@ -60,7 +61,7 @@
            
            
  .aprende-programar{font-size: 4.4em;
-                    font-family: genos;
+                    font-family: 'Genos', sans-serif;
                     color: white;
                     margin-top:15%;}
 
@@ -68,14 +69,14 @@
                                             width: 58%;
                                             margin-left: 20.3%;
                                             margin-top: 35.8%;}
-                                        .aplica{margin-left: -3%;}}
+                          .aplica{margin-left: -3%;}}
            
            
  .aplica{background-color: rgb(252, 43, 217);
          border-radius: 0.1em;
          border: none;
          box-shadow: rgba(0, 0, 0, 0.544);
-         font-family: genos;
+         font-family: 'Genos', sans-serif;
          font-size: 1.7em;
          color: white;
          text-align: center;
@@ -91,7 +92,7 @@
                margin-left: 10%;}
 
        
- .somos {font-family: genos;
+ .somos {font-family: 'Genos', sans-serif;
          font-size: 2.2em;
          width: 25%;
          margin-left: 50%;
@@ -100,7 +101,7 @@
           
  span{color: rgb(252, 43, 217);}   
        
- p.parrafo-1 {font-family: genos;
+ p.parrafo-1 {font-family: 'Genos', sans-serif;
               margin-top:3%;
               width:40%; 
               margin-left: 50%;
@@ -137,12 +138,12 @@
                                 margin-top: -26%;}}
 
  .programas{color:white; 
-             font-family: genos;
-             font-size: 2em;
-             max-width: 42.4%;
-             height: 25%;
-             margin-top: 27%;
-             margin-left: 29%;}
+            font-family: 'Genos', sans-serif;
+            font-size: 2em;
+            max-width: 42.4%;
+            height: 25%;
+            margin-top: 27%;
+            margin-left: 29%;}
 
  @media (max-width:620px){div.programas{text-align: center;
                                         font-size: 1.6em;
@@ -150,7 +151,7 @@
                                         margin-left: 30%;
                                         margin-top: -25%;}}                   
  
- h3{font-family: genos;
+ h3{font-family: 'Genos', sans-serif;
     font-size: 1.6em;
     text-align: center;
     color: white;
@@ -165,7 +166,7 @@
                             margin-top: 20%;}}
 
  .p-a{display: flex;
-      font-family: genos;
+      font-family: 'Genos', sans-serif;
       color: white;
       text-align: center;
       width: 73%;
@@ -299,10 +300,10 @@
  @media (max-width:620px) {.ellas{width:80%;
                                   margin-top: -61%;
                                   margin-left: 25%;
-                                display: none;}}      
+                                  display: none;}}      
 
                                   
- .contener-2{font-family: genos;
+ .contener-2{font-family: 'Genos', sans-serif;
              font-size: 1.2em;
              width: 30%;
              height: 170px;
@@ -324,7 +325,7 @@
 
  @media(max-width:620px) {.cinco{height: 260px;}}     
 
- .para-programar{font-family: genos;
+ .para-programar{font-family: 'Genos', sans-serif;
                  font-size: 4.4em;
                  color: white;
                  text-align: center;
@@ -339,7 +340,7 @@
      border-radius: 0.1em;
      border-color: rgb(252, 43, 217);
      box-shadow: 0px 3px 8px 2px rgba(0, 0, 0, 0.274);
-     font-family: genos;
+     font-family: 'Genos', sans-serif;
      font-size: 1.7em;
      color: white;
      text-align: center;
@@ -357,17 +358,16 @@
         margin-top: -1%; 
         text-align:center;}
 
- @media(max-width:620px) {.foote{height: 99px;
-       
-margin-top: 23%;}}
+ @media(max-width:620px) {.footer{height: 99px;
+                                  margin-top: 23%;}}
 
             
  .contener-3{position: absolute;
-             font-family: genos;
+             font-family: 'Genos', sans-serif;
              margin-top:4% ;
              margin-left: 87%;}
 
- @media(max-width:620px) {.contener-3 { padding: 10%;
-                margin-top: 2%;
-                margin-left: 30%;}}
+ @media(max-width:620px) {.contener-3 {padding: 10%;
+                                       margin-top: 2%;
+                                       margin-left: 30%;}}
 
